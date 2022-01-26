@@ -58,19 +58,19 @@
     "url": "https://mailpace.com",
     "icon": "https://favicons.githubusercontent.com/mailpace.com",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 276,
-    "timeDay": 165,
-    "timeWeek": 183,
-    "timeMonth": 238,
-    "timeYear": 276,
+    "time": 275,
+    "timeDay": 163,
+    "timeWeek": 181,
+    "timeMonth": 236,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-01-26": 62
+      "2022-01-26": 82
     }
   },
   {
