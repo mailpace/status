@@ -40,19 +40,19 @@
     "url": "https://blog.mailpace.com",
     "icon": "https://favicons.githubusercontent.com/blog.mailpace.com",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 297,
+    "timeDay": 302,
     "timeWeek": 309,
-    "timeMonth": 267,
+    "timeMonth": 268,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 20
     }
   },
   {
