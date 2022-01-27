@@ -40,18 +40,20 @@
     "url": "https://blog.mailpace.com",
     "icon": "https://favicons.githubusercontent.com/blog.mailpace.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 244,
-    "timeWeek": 304,
-    "timeMonth": 265,
+    "timeDay": 297,
+    "timeWeek": 309,
+    "timeMonth": 267,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Landing Page",
@@ -60,17 +62,17 @@
     "slug": "landing-page",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "87.84%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
     "time": 273,
-    "timeDay": 159,
+    "timeDay": 197,
     "timeWeek": 166,
     "timeMonth": 224,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-01-27": 74,
+      "2022-01-27": 64,
       "2022-01-26": 101
     }
   },
