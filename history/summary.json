@@ -22,9 +22,9 @@
     "url": "https://docs.mailpace.com",
     "icon": "https://favicons.githubusercontent.com/docs.mailpace.com",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 212,
     "timeMonth": 220,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Blog",
