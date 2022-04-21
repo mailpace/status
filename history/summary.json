@@ -4,18 +4,20 @@
     "url": "https://app.mailpace.com",
     "icon": "https://favicons.githubusercontent.com/app.mailpace.com",
     "slug": "application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 559,
-    "timeWeek": 527,
-    "timeMonth": 491,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 476,
+    "timeWeek": 510,
+    "timeMonth": 488,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "Documentation",
