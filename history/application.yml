@@ -1,7 +1,7 @@
 url: https://app.mailpace.com
-status: down
-code: 503
-responseTime: 392
-lastUpdated: 2022-04-21T19:40:59.532Z
+status: up
+code: 200
+responseTime: 403
+lastUpdated: 2022-04-21T19:50:38.350Z
 startTime: Tue Apr 27 2021 16:56:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
