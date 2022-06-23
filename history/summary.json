@@ -6,15 +6,15 @@
     "slug": "application",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 519,
-    "timeDay": 595,
-    "timeWeek": 556,
-    "timeMonth": 489,
-    "timeYear": 514,
+    "time": 518,
+    "timeDay": 405,
+    "timeWeek": 563,
+    "timeMonth": 485,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2022-06-21": 34
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 242,
-    "timeDay": 129,
+    "time": 241,
+    "timeDay": 85,
     "timeWeek": 295,
-    "timeMonth": 189,
+    "timeMonth": 185,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2022-05-07": 21,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 130,
+    "time": 246,
+    "timeDay": 113,
     "timeWeek": 163,
-    "timeMonth": 245,
+    "timeMonth": 240,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-01-27": 20
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 233,
-    "timeDay": 90,
-    "timeWeek": 93,
-    "timeMonth": 162,
+    "timeDay": 70,
+    "timeWeek": 99,
+    "timeMonth": 156,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-05-07": 21,
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 87,
-    "timeWeek": 131,
-    "timeMonth": 111,
-    "timeYear": 121,
+    "timeDay": 78,
+    "timeWeek": 130,
+    "timeMonth": 109,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
