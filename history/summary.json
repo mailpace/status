@@ -106,17 +106,18 @@
     "slug": "smtp-server",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 110,
     "timeDay": 24,
     "timeWeek": 35,
     "timeMonth": 32,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-01-20": 0,
+      "2023-01-21": 57,
+      "2023-01-20": 3,
       "2022-10-30": 18,
       "2022-09-30": 57
     }
