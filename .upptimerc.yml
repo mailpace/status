@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Application
-    url: https://app.mailpace.com
+    url: https://app.mailpace.com/health
   - name: Documentation
     url: https://docs.mailpace.com
   - name: Blog
