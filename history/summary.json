@@ -1,23 +1,21 @@
 [
   {
     "name": "Application",
-    "url": "https://app.mailpace.com",
+    "url": "https://app.mailpace.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.mailpace.com.ico",
     "slug": "application",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 484,
-    "timeWeek": 413,
-    "timeMonth": 455,
+    "timeDay": 373,
+    "timeWeek": 397,
+    "timeMonth": 449,
     "timeYear": 467,
-    "dailyMinutesDown": {
-      "2023-01-17": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -25,21 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.mailpace.com.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 239,
-    "timeWeek": 197,
-    "timeMonth": 183,
+    "timeDay": 186,
+    "timeWeek": 190,
+    "timeMonth": 182,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2023-07-23": 21,
-      "2022-10-10": 16,
-      "2022-08-31": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -47,23 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.mailpace.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 268,
-    "timeWeek": 227,
-    "timeMonth": 200,
+    "timeDay": 201,
+    "timeWeek": 217,
+    "timeMonth": 198,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2023-07-23": 21,
-      "2022-12-10": 19,
-      "2022-11-03": 34,
-      "2022-09-04": 32,
-      "2022-08-31": 46
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing Page",
@@ -71,22 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailpace.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 402,
-    "timeWeek": 145,
-    "timeMonth": 123,
+    "timeDay": 244,
+    "timeWeek": 138,
+    "timeMonth": 122,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2023-07-23": 20,
-      "2022-12-28": 17,
-      "2022-12-06": 18,
-      "2022-10-10": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMTP Server",
@@ -94,21 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 36,
+    "timeDay": 32,
     "timeWeek": 28,
     "timeMonth": 29,
     "timeYear": 50,
-    "dailyMinutesDown": {
-      "2023-01-21": 83,
-      "2023-01-20": 3,
-      "2022-10-30": 18,
-      "2022-09-30": 57
-    }
+    "dailyMinutesDown": {}
   }
 ]
