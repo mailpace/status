@@ -4,19 +4,19 @@
     "url": "https://app.mailpace.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.mailpace.com.ico",
     "slug": "application",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 1822,
-    "timeWeek": 710,
-    "timeMonth": 502,
+    "timeDay": 1328,
+    "timeWeek": 669,
+    "timeMonth": 497,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 10
     }
   },
   {
