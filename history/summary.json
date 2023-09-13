@@ -11,10 +11,10 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 264,
-    "timeWeek": 634,
-    "timeMonth": 467,
-    "timeYear": 470,
+    "timeDay": 286,
+    "timeWeek": 627,
+    "timeMonth": 461,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2023-09-07": 10
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 62,
-    "timeWeek": 130,
-    "timeMonth": 170,
-    "timeYear": 255,
+    "timeDay": 50,
+    "timeWeek": 102,
+    "timeMonth": 165,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 1182,
-    "timeWeek": 285,
-    "timeMonth": 217,
-    "timeYear": 238,
+    "timeDay": 93,
+    "timeWeek": 265,
+    "timeMonth": 213,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mailpace.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 10437,
-    "timeWeek": 3567,
-    "timeMonth": 1016,
-    "timeYear": 228,
-    "dailyMinutesDown": {
-      "2023-09-12": 10
-    }
+    "timeDay": 10458,
+    "timeWeek": 3556,
+    "timeMonth": 1013,
+    "timeYear": 227,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMTP Server",
@@ -87,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 31,
-    "timeWeek": 28,
+    "timeDay": 32,
+    "timeWeek": 27,
     "timeMonth": 28,
     "timeYear": 46,
     "dailyMinutesDown": {}
