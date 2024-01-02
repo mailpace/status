@@ -4,7 +4,7 @@
     "url": "https://app.mailpace.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.mailpace.com.ico",
     "slug": "application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 310,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-11-27": 19,
       "2023-11-03": 18,
       "2023-10-03": 6,
