@@ -84,11 +84,11 @@
     "url": "smtp.mailpace.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 2,
@@ -96,7 +96,7 @@
     "timeMonth": 3,
     "timeYear": 10,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 9
     }
   }
 ]
