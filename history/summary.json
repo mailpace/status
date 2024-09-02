@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 401,
-    "timeDay": 357,
-    "timeWeek": 315,
+    "timeDay": 372,
+    "timeWeek": 334,
     "timeMonth": 331,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 152,
-    "timeWeek": 138,
-    "timeMonth": 168,
+    "timeDay": 112,
+    "timeWeek": 139,
+    "timeMonth": 166,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 179,
-    "timeWeek": 139,
-    "timeMonth": 151,
+    "timeDay": 121,
+    "timeWeek": 148,
+    "timeMonth": 149,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 91,
-    "timeWeek": 94,
-    "timeMonth": 116,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 118,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-01-03": 15
@@ -86,17 +86,15 @@
     "slug": "smtp-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 10,
-    "dailyMinutesDown": {
-      "2024-09-01": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
