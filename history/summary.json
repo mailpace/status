@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 297,
+    "time": 378,
+    "timeDay": 273,
     "timeWeek": 313,
-    "timeMonth": 353,
+    "timeMonth": 348,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2023-11-27": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 72,
-    "timeWeek": 142,
-    "timeMonth": 154,
+    "timeDay": 86,
+    "timeWeek": 126,
+    "timeMonth": 150,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 115,
-    "timeWeek": 166,
-    "timeMonth": 151,
+    "timeDay": 125,
+    "timeWeek": 149,
+    "timeMonth": 152,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 114,
-    "timeWeek": 144,
-    "timeMonth": 147,
+    "timeDay": 86,
+    "timeWeek": 139,
+    "timeMonth": 146,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-01-03": 15
