@@ -6,16 +6,18 @@
     "slug": "application",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 274,
-    "timeWeek": 313,
-    "timeMonth": 318,
+    "timeDay": 267,
+    "timeWeek": 316,
+    "timeMonth": 317,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 10
+    }
   },
   {
     "name": "Documentation",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 210,
-    "timeWeek": 154,
-    "timeMonth": 163,
+    "timeDay": 178,
+    "timeWeek": 166,
+    "timeMonth": 164,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 167,
-    "timeWeek": 173,
-    "timeMonth": 147,
+    "timeDay": 147,
+    "timeWeek": 177,
+    "timeMonth": 149,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 176,
-    "timeWeek": 142,
+    "timeDay": 134,
+    "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 8,
     "timeDay": 3,
-    "timeWeek": 5,
+    "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
