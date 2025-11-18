@@ -1,7 +1,7 @@
 url: https://app.mailpace.com/health
-status: down
-code: 500
-responseTime: 205
-lastUpdated: 2025-11-18T13:05:11.671Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2025-11-18T14:35:45.640Z
 startTime: 2021-04-27T16:56:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
