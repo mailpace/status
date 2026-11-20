@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.95%",
     "time": 401,
@@ -87,7 +87,7 @@
     "timeDay": 198,
     "timeWeek": 186,
     "timeMonth": 209,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2025-11-29": 18,
       "2026-01-11": 23,
@@ -102,9 +102,9 @@
     "url": "smtp.mailpace.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
@@ -117,7 +117,8 @@
       "2026-11-02": 35,
       "2026-11-14": 97,
       "2026-11-15": 64,
-      "2026-11-17": 186
+      "2026-11-17": 186,
+      "2026-11-20": 0
     }
   }
 ]
